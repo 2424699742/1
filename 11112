@@ -1,0 +1,2 @@
+video_player = VideoPlayer()
+fast_forward_video(video_player)
